@@ -4,3 +4,5 @@ __pycache__
 echo "models/final_model.keras" >> .gitignoremodels/final_model.h5
 models/final_model.h5
 models/final_model.keras
+models/final_model.h5
+models/final_model.keras
