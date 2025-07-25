@@ -1,3 +1,6 @@
 __pycache__
 .env
-.learn
+.learnmodels/final_model.h5
+echo "models/final_model.keras" >> .gitignoremodels/final_model.h5
+models/final_model.h5
+models/final_model.keras
